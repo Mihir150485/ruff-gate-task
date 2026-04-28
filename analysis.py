@@ -1,2 +1,1 @@
-import os
-x = 5    
+x = 5
